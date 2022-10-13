@@ -1,0 +1,3 @@
+export const CREATE_CLIENT = 'CREATE CLIENT'
+export const GET_ALL_CLIENTS = 'GET_ALL_CLIENTS'
+export const SUCCESS_CLIENT = 'SUCCESS_CLIENT'
